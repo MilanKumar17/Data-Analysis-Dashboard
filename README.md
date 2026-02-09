@@ -7,10 +7,7 @@ The objective of this project is to analyze daily internet usage behavior across
 
 ## Questions(KPIs):
 1.	How does total daily screen time differ across age groups?
-2.	Which age groups spend more time on:
-o	Social media
-o	Work/study
-o	Entertainment
+2.	Which age groups spend more time on Social media,Work/study,Entertainment?
 3.	What is the preferred device (Mobile, Laptop, Tablet) by age group?
 4.	How does internet type (WiFi vs Mobile Data) vary with age?
 5.	Are younger users more dependent on mobile data compared to older users?
