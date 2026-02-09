@@ -22,3 +22,6 @@ The objective of this project is to analyze daily internet usage behavior across
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dshboard
+
+<img width="1863" height="660" alt="daily_internet_usage_by_different_age_groups" src="https://github.com/user-attachments/assets/0a3d417b-9850-4443-99cb-3d119c76c4e0" />
+
