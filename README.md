@@ -14,3 +14,11 @@ The objective of this project is to analyze daily internet usage behavior across
 - Which age group contributes the highest overall internet consumption?
 
 - Dashboard Interaction <a href="daily_internet_usage_by_different_age_groups.png">View Dashboard</a>
+
+## Process
+- Verify data for any missing values and anomalies, and sort out the same.
+- Make sure data is consistent and clean with respect to data type, data format and values used.
+- Created pivot tables according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+## Dshboard
