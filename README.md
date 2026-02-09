@@ -1,2 +1,4 @@
-# Data-Analysis-Dashboard
-I had developed a comprehensive project using Microsoft Excel, I had created insightful Dashboard using different tables, slicers to analyze and properly showcase the data. This process involves several stages including data processing, data cleaning and data visualization.
+# Daily-Internet-Usage-by-Age-Groups
+## Problem Statement
+The objective of this project is to analyze daily internet usage behavior across different age groups by examining time spent on social media, work/study, and entertainment, along with device and internet type preferences, in order to derive actionable insights for telecom and digital service providers.
+
